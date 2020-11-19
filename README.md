@@ -6,3 +6,7 @@ The project studies ARIMA model
 3. Fit the model
 4. Check the results
 5. Execute prediction if required
+# Used packages
+1. pandas
+2. matplotlib
+3. statsmodels
